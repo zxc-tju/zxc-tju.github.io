@@ -58,7 +58,7 @@ I am open to any interest on my work or collaborative research topics (zhaoxc@to
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IV 2023</div><img src='images/IV2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Active Motion Planning in Interactive Driving Scenarios: A Generic Utility Term of Interaction Activeness](https://ieeexplore.ieee.org/abstract/document/10186564)
@@ -69,7 +69,7 @@ I am open to any interest on my work or collaborative research topics (zhaoxc@to
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ITSC 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ITSC 2021</div><img src='images/ITSC2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Yield or rush? Social-preference-aware driving interaction modeling using game-theoretic framework](https://ieeexplore.ieee.org/abstract/document/9564702)
@@ -80,7 +80,7 @@ I am open to any interest on my work or collaborative research topics (zhaoxc@to
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AA&P 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AA&P 2020</div><img src='images/AAP2020.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [How do drivers respond to driving risk during car-following? Risk-response driver model and its application in human-like longitudinal control](https://www.sciencedirect.com/science/article/pii/S0001457520316031)
