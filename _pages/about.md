@@ -21,9 +21,9 @@ redirect_from:
 I am currently pursuing the Ph.D. degree in transportation under the supervision of Prof. [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) at Tongji University. From Nov, 2022 to Oct, 2023, I was a visiting researcher in the Chair of [Traffic Process Automation](https://tu-dresden.de/bu/verkehr/vis/vpa/) at the Faculty of Transportation and Traffic Sciences "Friedrich List" of the TU Dresden under the supervision of Prof. [Meng Wang](https://tu-dresden.de/bu/verkehr/vis/vpa/die-professur/head-of-chair). 
 
 ## Research Interests
-- **Social behaviors in driving interaction** 
-- **AV decision making in interactive driving scenarios**
-- **Computational game theory**
+- Social behaviors in driving interaction
+- AV decision making in interactive driving scenarios
+- Computational game theory
 <br>
 
 I am open to any interest on my work or collaborative research topics (zhaoxc@tongji.edu.cn)
@@ -99,11 +99,16 @@ I am open to any interest on my work or collaborative research topics (zhaoxc@to
 - National Scholarship for College Student, Ministry of Education of China, 2015, 2018, 2019 (Top 1%).
 
 # Services
+
+- Working group leader of 2024 IEEE ITSS New Initiatives Program “Evidence-Based Communication Channel for Autonomous Driving Technology”
+  
 ## Reviewer
 - IEEE Transactions on Intelligent Transportation Systems
 - Transportation Research Part C
 - IEEE International Conference on Intelligent Transportation Systems
 - International Conference on Vehicular Control and Intelligence
+- IET Intelligent Transport Systems
+- Automotive Innovation
 
 ## Membership
 - IEEE Graduate Student Member
