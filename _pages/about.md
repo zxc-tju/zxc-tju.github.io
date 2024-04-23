@@ -25,16 +25,17 @@ I am currently pursuing the Ph.D. degree in transportation under the supervision
 - **AV decision making in interactive driving scenarios**
 - **Computational game theory**
 <br>
+
 I am open to any interest on my work or collaborative research topics (zhaoxc@tongji.edu.cn)
 
 
 # 🔥 News
-- *202404]🔥*  &nbsp;Our work "Measuring Sociality in Driving Interaction" has been published on IEEE Transactions on Intelligent Transportation Systems. [[link](https://ieeexplore.ieee.org/document/10499856)]
-- *202404]🔥*  &nbsp;Our proposal "Evidence-Based Communication Channel for Autonomous Driving Technology" has been officially funded by the 2024 IEEE ITSS New Initiatives Program.
-- *202401]*  &nbsp;We present our poster on "Modeling Social Interaction Behaviors and Measuring Driving Sociality in Strong Interactive Scenarios" at 2024 Transportation Research Board Annual Meeting.
-- *202306]*  &nbsp;We present our paper on "Towards Active Motion Planning in Interactive Driving Scenarios: A Generic Utility Term of Interaction Activeness" at 2023 IEEE IV. [[link](https://ieeexplore.ieee.org/abstract/document/10186564)]
-- *202305]*  &nbsp;We are awarded the golden prize on 2023 International Exhibition of Inventions of Geneva. [[link](https://tops.tongji.edu.cn/info/1002/1661.htm)]
-- *202206]*  &nbsp;Our team won the championship of a Commonroad Motion Planning Competition for Autonomous Vehicles! [[link](https://commonroad.in.tum.de/competition/2022/announcement)] [[talk](https://www.youtube.com/watch?v=jNOmQOFEscs)]
+- *202404🔥*  &nbsp;Our work "Measuring Sociality in Driving Interaction" has been published on IEEE Transactions on Intelligent Transportation Systems. [[link](https://ieeexplore.ieee.org/document/10499856)]
+- *202404🔥*  &nbsp;Our proposal "Evidence-Based Communication Channel for Autonomous Driving Technology" has been officially funded by the 2024 IEEE ITSS New Initiatives Program.
+- *202401*  &nbsp;We present our poster on "Modeling Social Interaction Behaviors and Measuring Driving Sociality in Strong Interactive Scenarios" at 2024 Transportation Research Board Annual Meeting.
+- *202306*  &nbsp;We present our paper on "Towards Active Motion Planning in Interactive Driving Scenarios: A Generic Utility Term of Interaction Activeness" at 2023 IEEE IV. [[link](https://ieeexplore.ieee.org/abstract/document/10186564)]
+- *202305*  &nbsp;We are awarded the golden prize on 2023 International Exhibition of Inventions of Geneva. [[link](https://tops.tongji.edu.cn/info/1002/1661.htm)]
+- *202206*  &nbsp;Our team won the championship of a Commonroad Motion Planning Competition for Autonomous Vehicles! [[link](https://commonroad.in.tum.de/competition/2022/announcement)] [[talk](https://www.youtube.com/watch?v=jNOmQOFEscs)]
   
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
@@ -46,7 +47,7 @@ I am open to any interest on my work or collaborative research topics (zhaoxc@to
 
 [Measuring Sociality in Driving Interaction](https://ieeexplore.ieee.org/document/10499856)
 
-**Xiaocong Zhao**, Jian Sun, [Meng Wang](https://tu-dresden.de/bu/verkehr/vis/vpa/die-professur/head-of-chair)
+**Xiaocong Zhao**, [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm), [Meng Wang](https://tu-dresden.de/bu/verkehr/vis/vpa/die-professur/head-of-chair)
 
 - We introduce a novel framework designed to analyze social behaviors through driving trajectories.
 - By understanding and quantifying social patterns in natural driving interactions, we demonstrate the potential to enhance autonomous driving technologies by incorporating human strategies in expressing sociality.
@@ -73,7 +74,7 @@ I am open to any interest on my work or collaborative research topics (zhaoxc@to
 
 [Yield or rush? Social-preference-aware driving interaction modeling using game-theoretic framework](https://ieeexplore.ieee.org/abstract/document/9564702)
 
-**Xiaocong Zhao**,  Ye Tian, [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm)
+**Xiaocong Zhao**,  [Ye Tian](https://tops.tongji.edu.cn/info/1031/1185.htm), [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm)
 
 </div>
 </div>
@@ -108,14 +109,14 @@ I am open to any interest on my work or collaborative research topics (zhaoxc@to
 - IEEE Graduate Student Member
 - IEEE Intelligent Transportation Systems Society Member
 
-- 
+  
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
-<!-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
-<!-# 💻 Internships
+<!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
