@@ -42,7 +42,7 @@ I am open to any interest on my work or collaborative research topics (zhaoxc@to
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ITS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ITS 2024</div><img src='images/tits2024-hd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Measuring Sociality in Driving Interaction](https://ieeexplore.ieee.org/document/10499856)
