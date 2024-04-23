@@ -17,42 +17,105 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 💬 About Me
+I am currently pursuing the Ph.D. degree in transportation under the supervision of Prof. [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) at Tongji University. From Nov, 2022 to Oct, 2023, I was a visiting researcher in the Chair of [Traffic Process Automation](https://tu-dresden.de/bu/verkehr/vis/vpa/) at the Faculty of Transportation and Traffic Sciences "Friedrich List" of the TU Dresden under the supervision of Prof. [Meng Wang](https://tu-dresden.de/bu/verkehr/vis/vpa/die-professur/head-of-chair). 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+## Research Interests
+- **Social behaviors in driving interaction** 
+- **AV decision making in interactive driving scenarios**
+- **Computational game theory**
+<br>
+I am open to any interest on my work or collaborative research topics (zhaoxc@tongji.edu.cn)
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *202404]🔥*  &nbsp;Our work "Measuring Sociality in Driving Interaction" has been published on IEEE Transactions on Intelligent Transportation Systems. [[link](https://ieeexplore.ieee.org/document/10499856)]
+- *202404]🔥*  &nbsp;Our proposal "Evidence-Based Communication Channel for Autonomous Driving Technology" has been officially funded by the 2024 IEEE ITSS New Initiatives Program.
+- *202401]*  &nbsp;We present our poster on "Modeling Social Interaction Behaviors and Measuring Driving Sociality in Strong Interactive Scenarios" at 2024 Transportation Research Board Annual Meeting.
+- *202306]*  &nbsp;We present our paper on "Towards Active Motion Planning in Interactive Driving Scenarios: A Generic Utility Term of Interaction Activeness" at 2023 IEEE IV. [[link](https://ieeexplore.ieee.org/abstract/document/10186564)]
+- *202305]*  &nbsp;We are awarded the golden prize on 2023 International Exhibition of Inventions of Geneva. [[link](https://tops.tongji.edu.cn/info/1002/1661.htm)]
+- *202206]*  &nbsp;Our team won the championship of a Commonroad Motion Planning Competition for Autonomous Vehicles! [[link](https://commonroad.in.tum.de/competition/2022/announcement)] [[talk](https://www.youtube.com/watch?v=jNOmQOFEscs)]
+  
+<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ITS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Measuring Sociality in Driving Interaction](https://ieeexplore.ieee.org/document/10499856)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xiaocong Zhao**, Jian Sun, [Meng Wang](https://tu-dresden.de/bu/verkehr/vis/vpa/die-professur/head-of-chair)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We introduce a novel framework designed to analyze social behaviors through driving trajectories.
+- By understanding and quantifying social patterns in natural driving interactions, we demonstrate the potential to enhance autonomous driving technologies by incorporating human strategies in expressing sociality.
+  
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Active Motion Planning in Interactive Driving Scenarios: A Generic Utility Term of Interaction Activeness](https://ieeexplore.ieee.org/abstract/document/10186564)
+
+ **Xiaocong Zhao**,  [Meng Wang](https://tu-dresden.de/bu/verkehr/vis/vpa/die-professur/head-of-chair), Shiyu Fang, [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ITSC 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Yield or rush? Social-preference-aware driving interaction modeling using game-theoretic framework](https://ieeexplore.ieee.org/abstract/document/9564702)
+
+**Xiaocong Zhao**,  Ye Tian, [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AA&P 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[How do drivers respond to driving risk during car-following? Risk-response driver model and its application in human-like longitudinal control](https://www.sciencedirect.com/science/article/pii/S0001457520316031)
+
+**Xiaocong Zhao**, Ren He, Jianqiang Wang
+
+</div>
+</div>
+
+
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Graduate Student Fellowship of China Scholarship Councils (CSC), 2022-2023.
+- Champion of CommonRoad Motion Planning Competition, 2022
+- National Scholarship for College Student, Ministry of Education of China, 2015, 2018, 2019 (Top 1%).
 
-# 📖 Educations
+# Services
+## Reviewer
+- IEEE Transactions on Intelligent Transportation Systems
+- Transportation Research Part C
+- IEEE International Conference on Intelligent Transportation Systems
+- International Conference on Vehicular Control and Intelligence
+
+## Membership
+- IEEE Graduate Student Member
+- IEEE Intelligent Transportation Systems Society Member
+
+- 
+<!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
-# 💬 Invited Talks
+<!-# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
