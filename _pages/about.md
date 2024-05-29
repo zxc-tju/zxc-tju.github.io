@@ -35,7 +35,7 @@ I am open to any interest on my work or collaborative research topics (zhaoxc@to
 - *202401*  &nbsp;We present our poster on "Modeling Social Interaction Behaviors and Measuring Driving Sociality in Strong Interactive Scenarios" at 2024 Transportation Research Board Annual Meeting.
 - *202306*  &nbsp;We present our paper on "Towards Active Motion Planning in Interactive Driving Scenarios: A Generic Utility Term of Interaction Activeness" at 2023 IEEE IV. [[link](https://ieeexplore.ieee.org/abstract/document/10186564)]
 - *202305*  &nbsp;We are awarded the golden prize on 2023 International Exhibition of Inventions of Geneva. [[link](https://tops.tongji.edu.cn/info/1002/1661.htm)]
-- *202206*  &nbsp;Our team won the championship of a Commonroad Motion Planning Competition for Autonomous Vehicles! [[link](https://commonroad.in.tum.de/competition/2022/announcement)] [[talk](https://www.youtube.com/watch?v=jNOmQOFEscs)]
+- *202206*  &nbsp;Our team won the championship of the Commonroad Motion Planning Competition for Autonomous Vehicles! [[link](https://commonroad.in.tum.de/competition/2022/announcement)] [[talk](https://www.youtube.com/watch?v=jNOmQOFEscs)]
   
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
