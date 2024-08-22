@@ -31,11 +31,11 @@ I am open to any interest on my work or collaborative research topics (zhaoxc@to
 
 # 🔥 News
 - *202407🔥*  &nbsp;I will be holding a workshop "Advanced Modeling, Evaluation, and Simulation of Interactions in Mixed Traffic" at ITSC 2024 during September 24- 27, 2024 in Edmonton, Canada.[[workshop site](https://sites.google.com/view/workshop-itsc-2024)]
-- *202407🔥*  &nbsp;Our work "Towards Interactive Autonomous Vehicle Testing: Vehicle-Under-Test-Centered Traffic Simulation" has been accepted by IEEE ITSC 2024. [[link](https://arxiv.org/html/2406.02860v1)]
-- *202404*  &nbsp;Our work "Measuring Sociality in Driving Interaction" has been published on IEEE Transactions on Intelligent Transportation Systems. [[link](https://ieeexplore.ieee.org/document/10499856)]
+- *202407🔥*  &nbsp;Our work "Towards Interactive Autonomous Vehicle Testing: Vehicle-Under-Test-Centered Traffic Simulation" has been accepted by IEEE ITSC 2024. My colleague [Yiru Liu](https://www.linkedin.com/in/yiru-liu-b407312b9/) will be presenting both a poster and an oral presentation at ITSC 2024 in Edmonton, Canada.[[paper](https://arxiv.org/html/2406.02860v2)] [[code](https://github.com/YNYSNL/VCDI)]
+- *202404*  &nbsp;Our work "Measuring Sociality in Driving Interaction" has been published on IEEE Transactions on Intelligent Transportation Systems. [[paper](https://ieeexplore.ieee.org/document/10499856)]
 - *202404*  &nbsp;Our proposal "Evidence-Based Communication Channel for Autonomous Driving Technology" has been officially funded by the 2024 IEEE ITSS New Initiatives Program.
 - *202401*  &nbsp;We present our poster on "Modeling Social Interaction Behaviors and Measuring Driving Sociality in Strong Interactive Scenarios" at 2024 Transportation Research Board Annual Meeting.
-- *202306*  &nbsp;We present our paper on "Towards Active Motion Planning in Interactive Driving Scenarios: A Generic Utility Term of Interaction Activeness" at 2023 IEEE IV. [[link](https://ieeexplore.ieee.org/abstract/document/10186564)]
+- *202306*  &nbsp;We present our paper on "Towards Active Motion Planning in Interactive Driving Scenarios: A Generic Utility Term of Interaction Activeness" at 2023 IEEE IV. [[paper](https://ieeexplore.ieee.org/abstract/document/10186564)]
 - *202305*  &nbsp;We are awarded the golden prize on 2023 International Exhibition of Inventions of Geneva. [[link](https://tops.tongji.edu.cn/info/1002/1661.htm)]
 - *202206*  &nbsp;Our team won the championship of the Commonroad Motion Planning Competition for Autonomous Vehicles! [[link](https://commonroad.in.tum.de/competition/2022/announcement)] [[talk](https://www.youtube.com/watch?v=jNOmQOFEscs)]
   
