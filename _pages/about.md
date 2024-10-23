@@ -43,6 +43,20 @@ I am open to any interest on my work or collaborative research topics (zhaoxc@to
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📝 Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ITSC 2024</div><img src='images/ITSC2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Interactive Autonomous Vehicle Testing: Vehicle-Under-Test-Centered Traffic Simulation](https://arxiv.org/html/2406.02860v1)
+
+[Yiru Liu](https://ynysnl.github.io/), **Xiaocong Zhao**, [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm)
+
+- This study introduces an Vehicle-under-test-Centered environmental Dynamics Inference (VCDI) model for realistic, interactive, and diverse background traffic simulation.
+  
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ITS 2024</div><img src='images/tits2024-hd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
