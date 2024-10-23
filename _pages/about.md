@@ -31,7 +31,7 @@ I am open to any interest on my work or collaborative research topics (zhaoxc@to
 
 # 🔥 News
 - *202407🔥*  &nbsp;I will be holding a workshop "Advanced Modeling, Evaluation, and Simulation of Interactions in Mixed Traffic" at ITSC 2024 during September 24- 27, 2024 in Edmonton, Canada.[[workshop site](https://sites.google.com/view/workshop-itsc-2024)]
-- *202407🔥*  &nbsp;Our work "Towards Interactive Autonomous Vehicle Testing: Vehicle-Under-Test-Centered Traffic Simulation" has been accepted by IEEE ITSC 2024. My colleague [Yiru Liu](https://www.linkedin.com/in/yiru-liu-b407312b9/) will be presenting both a poster and an oral presentation at ITSC 2024 in Edmonton, Canada.[[paper](https://arxiv.org/html/2406.02860v2)] [[code](https://github.com/YNYSNL/VCDI)]
+- *202407🔥*  &nbsp;Our work "Towards Interactive Autonomous Vehicle Testing: Vehicle-Under-Test-Centered Traffic Simulation" has been accepted by IEEE ITSC 2024. My colleague [Yiru Liu](https://www.linkedin.com/in/yiru-liu-b407312b9/) will be presenting this work at ITSC 2024 in Edmonton, Canada.[[paper](https://arxiv.org/html/2406.02860v2)] [[code](https://github.com/YNYSNL/VCDI)]
 - *202404*  &nbsp;Our work "Measuring Sociality in Driving Interaction" has been published on IEEE Transactions on Intelligent Transportation Systems. [[paper](https://ieeexplore.ieee.org/document/10499856)]
 - *202404*  &nbsp;Our proposal "Evidence-Based Communication Channel for Autonomous Driving Technology" has been officially funded by the 2024 IEEE ITSS New Initiatives Program.
 - *202401*  &nbsp;We present our poster on "Modeling Social Interaction Behaviors and Measuring Driving Sociality in Strong Interactive Scenarios" at 2024 Transportation Research Board Annual Meeting.
@@ -48,7 +48,7 @@ I am open to any interest on my work or collaborative research topics (zhaoxc@to
 
 [Towards Interactive Autonomous Vehicle Testing: Vehicle-Under-Test-Centered Traffic Simulation](https://arxiv.org/html/2406.02860v1)
 
-[Yiru Liu](https://ynysnl.github.io/), **Xiaocong Zhao**, [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm)
+[Yiru Liu](https://ynysnl.github.io/), **Xiaocong Zhao\***, [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm)
 
 - This study introduces an Vehicle-under-test-Centered environmental Dynamics Inference (VCDI) model for realistic, interactive, and diverse background traffic simulation.
   
@@ -63,7 +63,7 @@ I am open to any interest on my work or collaborative research topics (zhaoxc@to
 
 [Measuring Sociality in Driving Interaction](https://ieeexplore.ieee.org/document/10499856)
 
-**Xiaocong Zhao**, [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm), [Meng Wang](https://tu-dresden.de/bu/verkehr/vis/vpa/die-professur/head-of-chair)
+**Xiaocong Zhao**, [Jian Sun\*](https://tops.tongji.edu.cn/info/1031/1187.htm), [Meng Wang](https://tu-dresden.de/bu/verkehr/vis/vpa/die-professur/head-of-chair)
 
 - We introduce a novel framework designed to analyze social behaviors through driving trajectories.
 - By understanding and quantifying social patterns in natural driving interactions, we demonstrate the potential to enhance autonomous driving technologies by incorporating human strategies in expressing sociality.
@@ -79,7 +79,7 @@ I am open to any interest on my work or collaborative research topics (zhaoxc@to
 
 [Towards Active Motion Planning in Interactive Driving Scenarios: A Generic Utility Term of Interaction Activeness](https://ieeexplore.ieee.org/abstract/document/10186564)
 
- **Xiaocong Zhao**,  [Meng Wang](https://tu-dresden.de/bu/verkehr/vis/vpa/die-professur/head-of-chair), Shiyu Fang, [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm)
+ **Xiaocong Zhao**,  [Meng Wang](https://tu-dresden.de/bu/verkehr/vis/vpa/die-professur/head-of-chair), Shiyu Fang, [Jian Sun\*](https://tops.tongji.edu.cn/info/1031/1187.htm)
 
 </div>
 </div>
@@ -90,7 +90,7 @@ I am open to any interest on my work or collaborative research topics (zhaoxc@to
 
 [Yield or rush? Social-preference-aware driving interaction modeling using game-theoretic framework](https://ieeexplore.ieee.org/abstract/document/9564702)
 
-**Xiaocong Zhao**,  [Ye Tian](https://tops.tongji.edu.cn/info/1031/1185.htm), [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm)
+**Xiaocong Zhao**,  [Ye Tian](https://tops.tongji.edu.cn/info/1031/1185.htm), [Jian Sun\*](https://tops.tongji.edu.cn/info/1031/1187.htm)
 
 </div>
 </div>
@@ -101,7 +101,7 @@ I am open to any interest on my work or collaborative research topics (zhaoxc@to
 
 [How do drivers respond to driving risk during car-following? Risk-response driver model and its application in human-like longitudinal control](https://www.sciencedirect.com/science/article/pii/S0001457520316031)
 
-**Xiaocong Zhao**, Ren He, Jianqiang Wang
+**Xiaocong Zhao**, Ren He, Jianqiang Wang\*
 
 </div>
 </div>
