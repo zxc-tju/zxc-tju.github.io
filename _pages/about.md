@@ -111,8 +111,10 @@ I am open to any interest on my work or collaborative research topics (zhaoxc@to
 
 # 🎖 Honors and Awards
 - Graduate Student Fellowship of China Scholarship Councils (CSC), 2022-2023.
-- Champion of CommonRoad Motion Planning Competition, 2022
-- National Scholarship for College Student, Ministry of Education of China, 2015, 2018, 2019 (Top 1%).
+- Champion of CommonRoad Motion Planning Competition, 2022.
+- National Scholarship for College Student, 2019 (Top 1%).
+- National Scholarship for College Student, 2018 (Top 1%).
+- National Scholarship for College Student, 2015 (Top 1%).
 
 # Services
 ## Program Committee
@@ -123,8 +125,6 @@ I am open to any interest on my work or collaborative research topics (zhaoxc@to
 - IEEE Transactions on Intelligent Transportation Systems
 - Transportation Research Part C
 - Computer-Aided Civil and Infrastructure Engineering
-- IEEE International Conference on Intelligent Transportation Systems
-- International Conference on Vehicular Control and Intelligence
 - IET Intelligent Transport Systems
 - Automotive Innovation
 
