@@ -115,12 +115,14 @@ I am open to any interest on my work or collaborative research topics (zhaoxc@to
 - National Scholarship for College Student, Ministry of Education of China, 2015, 2018, 2019 (Top 1%).
 
 # Services
-
+## Program Committee
+- Lead organizer of Workshop on Advanced Modeling, Evaluation, and Simulation of Interactions in Mixed Traffic at ITSC, 2024
 - Working group leader of 2024 IEEE ITSS New Initiatives Program “Evidence-Based Communication Channel for Autonomous Driving Technology”
   
 ## Reviewer
 - IEEE Transactions on Intelligent Transportation Systems
 - Transportation Research Part C
+- Computer-Aided Civil and Infrastructure Engineering
 - IEEE International Conference on Intelligent Transportation Systems
 - International Conference on Vehicular Control and Intelligence
 - IET Intelligent Transport Systems
