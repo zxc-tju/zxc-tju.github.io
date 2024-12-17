@@ -43,6 +43,20 @@ I am open to any interest on my work or collaborative research topics (zhaoxc@to
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📝 Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/roadmap_Interhub.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[InterHub: A Naturalistic Trajectory Dataset with Dense Interaction for Autonomous Driving](https://arxiv.org/abs/2411.18302)
+
+[Xiyan Jiang](https://tops.tongji.edu.cn/info/1161/2143.htm), **Xiaocong Zhao\***, [Yiru Liu](https://tops.tongji.edu.cn/info/1131/1810.htm), [Zirui Li](https://lzrbit.github.io/), [Peng Hang](https://tops.tongji.edu.cn/info/1031/1383.htm), Lu Xiong, and [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm)
+
+- A naturalistic driving dataset with dense interactions is extracted from multiple widely adopted public driving datasets, being unified, analyzed, and categorized to provide a user-friendly data foundation.
+- A quantitative-yet-readable definition of the driving interaction using the formal method is proposed along with an open access toolkit.
+  
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ITSC 2024</div><img src='images/ITSC2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
