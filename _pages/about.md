@@ -21,8 +21,8 @@ redirect_from:
 I am currently pursuing the Ph.D. degree in transportation under the supervision of Prof. [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) at Tongji University. From Nov, 2022 to Oct, 2023, I was a visiting researcher in the Chair of [Traffic Process Automation](https://tu-dresden.de/bu/verkehr/vis/vpa/) at the Faculty of Transportation and Traffic Sciences "Friedrich List" of the TU Dresden under the supervision of Prof. [Meng Wang](https://tu-dresden.de/bu/verkehr/vis/vpa/die-professur/head-of-chair). 
 
 ## Research Interests
+- Interactive motion planning
 - Social behaviors in driving interaction
-- AV decision making in interactive driving scenarios
 - Computational game theory
 <br>
 
@@ -30,8 +30,9 @@ I am open to any interest on my work or collaborative research topics (zhaoxc@to
 
 
 # 🔥 News
-- *202407🔥*  &nbsp;I will be holding a workshop "Advanced Modeling, Evaluation, and Simulation of Interactions in Mixed Traffic" at ITSC 2024 during September 24- 27, 2024 in Edmonton, Canada.[[workshop site](https://sites.google.com/view/workshop-itsc-2024)]
-- *202407🔥*  &nbsp;Our work "Towards Interactive Autonomous Vehicle Testing: Vehicle-Under-Test-Centered Traffic Simulation" has been accepted by IEEE ITSC 2024. My colleague [Yiru Liu](https://www.linkedin.com/in/yiru-liu-b407312b9/) will be presenting this work at ITSC 2024 in Edmonton, Canada.[[paper](https://arxiv.org/html/2406.02860v2)] [[code](https://github.com/YNYSNL/VCDI)]
+- *202412🔥*  &nbsp;Excited to announce that our work, "InterHub: A Naturalistic Trajectory Dataset with Dense Interaction for Autonomous Driving", is now available! Check out the [[preprint paper]](https://arxiv.org/abs/2411.18302), [[dataset]](https://figshare.com/articles/dataset/_b_InterHub_A_Naturalistic_Trajectory_Dataset_with_Dense_Interaction_for_Autonomous_Driving_b_/27899754), and [[code]](https://github.com/zxc-tju/InterHub).
+- *202407*  &nbsp;I will be holding a workshop "Advanced Modeling, Evaluation, and Simulation of Interactions in Mixed Traffic" at ITSC 2024 during September 24- 27, 2024 in Edmonton, Canada.[[workshop site](https://sites.google.com/view/workshop-itsc-2024)]
+- *202407*  &nbsp;Our work "Towards Interactive Autonomous Vehicle Testing: Vehicle-Under-Test-Centered Traffic Simulation" has been accepted by IEEE ITSC 2024. My colleague [Yiru Liu](https://www.linkedin.com/in/yiru-liu-b407312b9/) will be presenting this work at ITSC 2024 in Edmonton, Canada.[[paper](https://arxiv.org/html/2406.02860v2)] [[code](https://github.com/YNYSNL/VCDI)]
 - *202404*  &nbsp;Our work "Measuring Sociality in Driving Interaction" has been published on IEEE Transactions on Intelligent Transportation Systems. [[paper](https://ieeexplore.ieee.org/document/10499856)]
 - *202404*  &nbsp;Our proposal "Evidence-Based Communication Channel for Autonomous Driving Technology" has been officially funded by the 2024 IEEE ITSS New Initiatives Program.
 - *202401*  &nbsp;We present our poster on "Modeling Social Interaction Behaviors and Measuring Driving Sociality in Strong Interactive Scenarios" at 2024 Transportation Research Board Annual Meeting.
@@ -49,6 +50,8 @@ I am open to any interest on my work or collaborative research topics (zhaoxc@to
 [InterHub: A Naturalistic Trajectory Dataset with Dense Interaction for Autonomous Driving](https://arxiv.org/abs/2411.18302)
 
 [Xiyan Jiang](https://tops.tongji.edu.cn/info/1161/2143.htm), **Xiaocong Zhao\***, [Yiru Liu](https://tops.tongji.edu.cn/info/1131/1810.htm), [Zirui Li](https://lzrbit.github.io/), [Peng Hang](https://tops.tongji.edu.cn/info/1031/1383.htm), Lu Xiong, and [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm)
+
+[**Project**](https://github.com/zxc-tju/InterHub) [![](https://img.shields.io/github/stars/zxc-tju/InterHub?style=social&label=Code%20Stars)](https://github.com/zxc-tju/InterHub)
 
 - A naturalistic driving dataset with dense interactions is extracted from multiple widely adopted public driving datasets, being unified, analyzed, and categorized to provide a user-friendly data foundation.
 - A quantitative-yet-readable definition of the driving interaction using the formal method is proposed along with an open access toolkit.
@@ -132,7 +135,7 @@ I am open to any interest on my work or collaborative research topics (zhaoxc@to
 
 # Services
 ## Program Committee
-- Lead organizer of Workshop on Advanced Modeling, Evaluation, and Simulation of Interactions in Mixed Traffic at ITSC, 2024
+- Onsite host and Lead organizer of Workshop on Advanced Modeling, Evaluation, and Simulation of Interactions in Mixed Traffic at ITSC, 2024
 - Working group leader of 2024 IEEE ITSS New Initiatives Program “Evidence-Based Communication Channel for Autonomous Driving Technology”
   
 ## Reviewer
