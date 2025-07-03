@@ -18,19 +18,21 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 💬 About Me
-I am currently pursuing the Ph.D. degree in transportation under the supervision of Prof. [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) at Tongji University. From Nov, 2022 to Oct, 2023, I was a visiting researcher in the Chair of [Traffic Process Automation](https://tu-dresden.de/bu/verkehr/vis/vpa/) at the Faculty of Transportation and Traffic Sciences "Friedrich List" of the TU Dresden under the supervision of Prof. [Meng Wang](https://tu-dresden.de/bu/verkehr/vis/vpa/die-professur/head-of-chair). 
+I am currently postdoctoral researcher in transportation under the supervision of Prof. [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) at Tongji University. From Nov, 2022 to Oct, 2023, I was a visiting researcher in the Chair of [Traffic Process Automation](https://tu-dresden.de/bu/verkehr/vis/vpa/) at the Faculty of Transportation and Traffic Sciences "Friedrich List" of the TU Dresden under the supervision of Prof. [Meng Wang](https://tu-dresden.de/bu/verkehr/vis/vpa/die-professur/head-of-chair). 
 
 ## Research Interests
+- Human-machine Interaction
 - Interactive motion planning
 - Social behaviors in driving interaction
-- Computational game theory
 <br>
 
 I am open to any interest on my work or collaborative research topics (zhaoxc@tongji.edu.cn)
 
 
 # 🔥 News
-- *202412🔥*  &nbsp;Excited to announce that our work, "InterHub: A Naturalistic Trajectory Dataset with Dense Interaction for Autonomous Driving", is now available! Check out the [[preprint paper]](https://arxiv.org/abs/2411.18302), [[dataset]](https://figshare.com/articles/dataset/_b_InterHub_A_Naturalistic_Trajectory_Dataset_with_Dense_Interaction_for_Autonomous_Driving_b_/27899754), and [[code]](https://github.com/zxc-tju/InterHub).
+- *202507🔥*  &nbsp;Our work, "InterHub: A Naturalistic Trajectory Dataset with Dense Interaction for Autonomous Driving", has been published in _Scientific Data_. [[paper]](https://www.nature.com/articles/s41597-025-05344-7)[[dataset]](https://figshare.com/articles/dataset/_b_InterHub_A_Naturalistic_Trajectory_Dataset_with_Dense_Interaction_for_Autonomous_Driving_b_/27899754)[[code]](https://github.com/zxc-tju/InterHub).
+- *202505🔥*  &nbsp; I’ve defended my Ph.D. thesis on “Sociality-Aware Interactive Motion Planning for Autonomous Driving” at Tongji University. 
+- *202412*  &nbsp;Excited to announce that our work, "InterHub: A Naturalistic Trajectory Dataset with Dense Interaction for Autonomous Driving", is now available! Check out the [[preprint paper]](https://arxiv.org/abs/2411.18302), [[dataset]](https://figshare.com/articles/dataset/_b_InterHub_A_Naturalistic_Trajectory_Dataset_with_Dense_Interaction_for_Autonomous_Driving_b_/27899754), and [[code]](https://github.com/zxc-tju/InterHub).
 - *202407*  &nbsp;I will be holding a workshop "Advanced Modeling, Evaluation, and Simulation of Interactions in Mixed Traffic" at ITSC 2024 during September 24- 27, 2024 in Edmonton, Canada.[[workshop site](https://sites.google.com/view/workshop-itsc-2024)]
 - *202407*  &nbsp;Our work "Towards Interactive Autonomous Vehicle Testing: Vehicle-Under-Test-Centered Traffic Simulation" has been accepted by IEEE ITSC 2024. My colleague [Yiru Liu](https://www.linkedin.com/in/yiru-liu-b407312b9/) will be presenting this work at ITSC 2024 in Edmonton, Canada.[[paper](https://arxiv.org/html/2406.02860v2)] [[code](https://github.com/YNYSNL/VCDI)]
 - *202404*  &nbsp;Our work "Measuring Sociality in Driving Interaction" has been published on IEEE Transactions on Intelligent Transportation Systems. [[paper](https://ieeexplore.ieee.org/document/10499856)]
@@ -47,7 +49,7 @@ I am open to any interest on my work or collaborative research topics (zhaoxc@to
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/roadmap_Interhub.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[InterHub: A Naturalistic Trajectory Dataset with Dense Interaction for Autonomous Driving](https://arxiv.org/abs/2411.18302)
+[InterHub: A Naturalistic Trajectory Dataset with Dense Interaction for Autonomous Driving](https://www.nature.com/articles/s41597-025-05344-7)
 
 [Xiyan Jiang](https://tops.tongji.edu.cn/info/1161/2143.htm), **Xiaocong Zhao\***, [Yiru Liu](https://tops.tongji.edu.cn/info/1131/1810.htm), [Zirui Li](https://lzrbit.github.io/), [Peng Hang](https://tops.tongji.edu.cn/info/1031/1383.htm), Lu Xiong, and [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm)
 
